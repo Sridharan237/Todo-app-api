@@ -1,0 +1,4 @@
+current ip address - 42.104.139.4
+
+mongodb connection string:-
+mongodb+srv://sridharan:<password>@cluster0.ocvkglc.mongodb.net/
